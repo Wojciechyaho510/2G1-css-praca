@@ -1,0 +1,39 @@
+<html>
+<head>
+    <META HTTP-EQUIV="content-type" CONTENT="text/html">
+    <meta charset="utf-8">
+    <title>Wojciech Bednarek</title>
+    <style>
+        p {
+            color: blue;
+            font-size: 32mm;
+        }
+
+        span {
+            color: yellow;
+            font-size: 22mm;
+        }
+    </style>
+</head>
+<body>
+    <div style="background-color: green">
+        <span style="color: red">
+            <b>To jest pogrubienie w ramach DIV oraz SPAN i dlatego jest czerwone na żółtym tle</b>,
+            a to jest zwykły tekst - również wewnątrz DIV i SPAN.
+        </span>
+        To jest zwykły tekst, ale tylko wewnątrz DIV - dlatego nie jest czerwony, ale ma żółte tło.
+        <p>A to jest akapit (element blokowy) w ramach DIV.</p>
+    </div>
+
+    <span style="color: red">
+        <b>To jest pogrubienie (element wyświetlany w linii) w ramach SPAN</b>,
+        a to jest zwykły tekst - również wewnątrz span.
+    </span>
+
+    <ol>
+        <li style="color: rgb(130,3,108); "><span style="color: black; ">Punkt pierwszy</span></li>
+        <li style="color: rgb(244,193,103)"><span style="color: black; ">Punkt drugi</span></li>
+        <li style="color: rgb(255,215,130) "><span style="color: black; ">Punkt trzeci</span></li>
+    </ol>
+</body>
+</html>
