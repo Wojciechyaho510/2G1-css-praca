@@ -1,37 +1,37 @@
-p#pogrubienie_Bednarek
-{
-    font-size: 34px;
-    color:#863BD1;
+p#pogrubienie_Bednarek {
+    font-size: 33px;
+    color: #8573CB;
 }
-p#pochylone_Bednarek
-{
-font-size: 39px;
-color:#9A6D1D;
+
+p#pochylone_Bednarek {
+    font-size: 38pt;
+    color: #DF9671;
 }
-p#index_gorny_Bednarek
-{
-    vertical-align:super;
-    font-size:1.4cm;
-    color:#958D18;
+
+p#index_gorny_Bednarek {
+    vertical-align: super;
+    font-size: 1.3cm;
+    color: #916A34;
 }
-p#index_dolny_Bednarek
-{
+
+p#index_dolny_Bednarek {
     vertical-align: sub;
-    font-size: 2.3cm;
-    color:rgb(18%,94%,88%);
+    font-size: 2.1cm;
+    color: rgb(53%, 96%, 76%);
 }
-p#mono_Bednarek
-{
-    font-size: 44px;
-    color:#2D796D;
+
+p#mono_Bednarek {
+    font-size: 43px;
+    color: #1375CA;
 }
-p#powiekszenie_Bednarek
-{
-    font-size: 30px;
-    color: #673D9F;
+
+p#powiekszenie_Bednarek {
+    font-size: 83px;
+    color: #1478D1;
 }
-p#pomniejszenie_Bednarek
-{
-    font-size: 32px;
-    color:rgb(70%,63%,21%);
+
+p#pomniejszenie_Bednarek {
+    font-size: 40px;
+    color: rgb(183, 127, 49);
 }
+
